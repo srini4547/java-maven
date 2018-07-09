@@ -1,4 +1,4 @@
-This is my fixed for DPLM-5
+This is my fixe for DPLM-5
 For any questions - Please email me at DevOps@RajeshKumar.xyz
 # ========================NEXUS==============================
 
