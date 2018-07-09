@@ -34,7 +34,7 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 
 </distributionManagement>
 
-=====================SETTING.XML=================================
+=====================SETTING.XML===---==============================
    <server>
 		<id>rajesh</id>
 		<username>rajesh-user</username>
